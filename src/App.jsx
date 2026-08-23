@@ -69,10 +69,10 @@ export default function App() {
       <header className="relative z-20 mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-6 lg:px-8">
         <a href="#home" className="flex items-center gap-3">
           <span className="grid h-9 w-9 place-items-center rounded-full border border-sky-200/40 bg-sky-300 text-xs font-black text-[#082f49]">
-            MG
+            GM
           </span>
           <span className="text-base font-bold tracking-tight text-white">
-            Mallikarjuna.Gangula
+            Gangula.Mallikarjuna
           </span>
         </a>
         <nav className="hidden items-center gap-6 text-sm font-medium text-slate-300 lg:flex">
@@ -173,7 +173,7 @@ export default function App() {
             <img
               src={portrait}
               alt="Mallikarjuna Gangula"
-              className="aspect-[4/5] w-full rounded-[1.35rem] object-cover object-top"
+              className="aspect-[3/4] w-full rounded-[1.35rem] object-cover object-top"
             />
           </div>
           <div className="mt-4 border-l-2 border-sky-300 pl-3">
@@ -193,7 +193,7 @@ export default function App() {
       >
         <div className="mx-auto grid max-w-6xl gap-8 px-6 py-16 lg:grid-cols-[.7fr_1.3fr] lg:px-8">
           <p className="text-sm font-bold uppercase tracking-[.2em] text-teal-300">
-            01 / About me
+            1 / About me
           </p>
           <div>
             <h2 className="text-3xl font-bold tracking-tight text-white">
@@ -218,7 +218,7 @@ export default function App() {
         className="relative z-10 mx-auto max-w-6xl px-6 py-20 lg:px-8"
       >
         <p className="text-sm font-bold uppercase tracking-[.2em] text-teal-300">
-          02 / Toolkit
+          2 / Toolkit
         </p>
         <h2 className="mt-3 text-3xl font-bold tracking-tight text-white">
           Tools I work with.
@@ -244,7 +244,7 @@ export default function App() {
       >
         <div className="mx-auto max-w-6xl px-6 py-16 lg:px-8">
           <p className="text-sm font-bold uppercase tracking-[.2em] text-teal-300">
-            03 / Experience
+            3 / Experience
           </p>
           <div className="mt-9 space-y-5">
             <article className="grid gap-5 rounded-3xl border border-white/10 bg-white/[.04] p-7 md:grid-cols-[1fr_auto]">
@@ -289,7 +289,7 @@ export default function App() {
         className="relative z-10 mx-auto max-w-6xl px-6 py-20 lg:px-8"
       >
         <p className="text-sm font-bold uppercase tracking-[.2em] text-teal-300">
-          04 / Selected work
+          4 / Selected work
         </p>
         <h2 className="mt-3 text-3xl font-bold tracking-tight text-white">
           A few things I&apos;ve made.
@@ -333,11 +333,8 @@ export default function App() {
       >
         <div className="mx-auto max-w-6xl px-6 py-16 lg:px-8">
           <p className="text-sm font-bold uppercase tracking-[.2em] text-teal-300">
-            05 / Certifications
+            5 / Certifications
           </p>
-          <h2 className="mt-3 text-3xl font-bold tracking-tight text-white">
-            Continuous learning.
-          </h2>
           <div className="mt-9 grid gap-4 sm:grid-cols-3">
             {certifications.map((certificate, index) => (
               <article
@@ -364,7 +361,7 @@ export default function App() {
         className="relative z-10 mx-auto max-w-6xl px-6 py-20 lg:px-8"
       >
         <p className="text-sm font-bold uppercase tracking-[.2em] text-teal-300">
-          06 / Education & personal details
+          6 / Education
         </p>
         <div className="mt-8 grid gap-6 md:grid-cols-2">
           <article className="rounded-3xl border border-white/10 bg-white/[.045] p-7">
@@ -403,7 +400,7 @@ export default function App() {
       <section id="contact" className="relative z-10 px-6 pb-20 lg:px-8">
         <div className="mx-auto max-w-6xl rounded-[2rem] border border-teal-200/20 bg-teal-300 px-7 py-10 text-[#082126] sm:p-11">
           <p className="text-sm font-bold uppercase tracking-[.2em] text-[#0a5b58]">
-            07 / Contact
+            7 / Contact
           </p>
           <div className="mt-5 flex flex-col justify-between gap-7 md:flex-row md:items-end">
             <div>
