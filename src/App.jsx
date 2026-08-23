@@ -200,7 +200,7 @@ export default function App() {
               Thoughtful interfaces, built for people.
             </h2>
             <p className="mt-5 max-w-2xl leading-7 text-slate-300">
-              I am a frontend developer focused on turning ideas into smooth,
+              I am a frontend developer at STATIC VAL company and focused on turning ideas into smooth,
               responsive experiences. I enjoy the details, from clear content
               hierarchy to the small interactions that make an interface feel
               effortless.
