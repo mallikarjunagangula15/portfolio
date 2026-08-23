@@ -72,7 +72,7 @@ export default function App() {
             MG
           </span>
           <span className="text-base font-bold tracking-tight text-white">
-            Mallikarjuna<span className="text-sky-300">.Gangula</span>
+            Mallikarjuna.Gangula
           </span>
         </a>
         <nav className="hidden items-center gap-6 text-sm font-medium text-slate-300 lg:flex">
@@ -123,14 +123,14 @@ export default function App() {
       >
         <div>
           <p className="mb-5 flex items-center gap-2 text-xs font-semibold uppercase tracking-[.2em] text-sky-200">
-            <span className="h-2 w-2 animate-pulse rounded-full bg-sky-300" />{" "}
+            {" "}
             Frontend Developer at Staticval
           </p>
-          <h1 className="max-w-2xl text-3xl font-black leading-tight tracking-normal text-white sm:text-4xl lg:text-5xl">
+          
             Frontend developer creating{" "}
-            <span className="text-sky-200">clear, useful</span> digital
+           clear, usefuldigital
             experiences.
-          </h1>
+          
           <p className="mt-6 max-w-xl text-base leading-7 text-slate-100">
             Hi, I&apos;m{" "}
             <span className="font-bold text-sky-200">Mallikarjuna.Gangula</span>
