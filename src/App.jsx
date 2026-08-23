@@ -173,7 +173,7 @@ export default function App() {
             <img
               src={portrait}
               alt="Mallikarjuna Gangula"
-              className="aspect-[3/4] w-full rounded-[1.35rem] object-cover object-top"
+              className="aspect-[3/3] w-full rounded-[1.35rem] object-cover object-top"
             />
           </div>
           <div className="mt-4 border-l-2 border-sky-300 pl-3">
