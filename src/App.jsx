@@ -124,7 +124,7 @@ export default function App() {
         <div>
           <p className="mb-5 flex items-center gap-2 text-xs font-semibold uppercase tracking-[.2em] text-sky-200">
             {" "}
-            Frontend Developer at Staticval
+           <h2> Frontend Developer at Staticval</h2>
           </p>
           
             Frontend developer creating{" "}
@@ -158,11 +158,11 @@ export default function App() {
               <p className="mt-1 text-xs text-sky-100/70">Projects built</p>
             </div>
             <div>
-              <p className="text-xl font-bold text-white">12</p>
+              <p className="text-xl font-bold text-white">10</p>
               <p className="mt-1 text-xs text-sky-100/70">Core technologies</p>
             </div>
             <div>
-              <p className="text-xl font-bold text-white">03</p>
+              <p className="text-xl font-bold text-white">4</p>
               <p className="mt-1 text-xs text-sky-100/70">Certifications</p>
             </div>
           </div>
@@ -370,8 +370,7 @@ export default function App() {
           <article className="rounded-3xl border border-white/10 bg-white/[.045] p-7">
             <h2 className="text-2xl font-bold text-white">Education</h2>
             <p className="mt-4 leading-7 text-slate-300">
-              Education details will be added once verified, keeping this
-              portfolio accurate and professional.
+              B-Tech in Computer Science and Engineering from JNTUK,Andhra Pradesh.
             </p>
           </article>
           <article className="rounded-3xl border border-white/10 bg-white/[.045] p-7">
@@ -396,9 +395,7 @@ export default function App() {
                 GitHub <Arrow />
               </a>
             </div>
-            <p className="mt-4 text-sm text-slate-400">
-              Frontend Developer at Staticval
-            </p>
+           
           </article>
         </div>
       </section>
@@ -414,8 +411,8 @@ export default function App() {
                 Let&apos;s build something people enjoy using.
               </h2>
               <p className="mt-4 max-w-lg text-[#0d4b4d]">
-                Have an idea, project, or opportunity to discuss? Send me an
-                email and let&apos;s talk.
+                Have an idea, project, or opportunity to discuss?
+                Send me an email and let&apos;s talk.
               </p>
               <a
                 href="mailto:mallikarjunagangula48@gmail.com"
