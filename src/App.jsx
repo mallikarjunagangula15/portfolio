@@ -384,7 +384,7 @@ export default function App() {
                 LinkedIn <Arrow />
               </a>
               <a
-                href="https://github.com/arjun15-prop"
+                href="https://github.com/mallikarjunagangula15"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 text-teal-300 hover:text-teal-200"
@@ -404,9 +404,9 @@ export default function App() {
           </p>
           <div className="mt-5 flex flex-col justify-between gap-7 md:flex-row md:items-end">
             <div>
-              <h2 className="max-w-xl text-3xl font-black tracking-[-.045em] sm:text-4xl">
+              <h3 className="max-w-xl text-3xl font-black tracking-[-.045em] sm:text-4xl">
                 Let&apos;s build something people enjoy using.
-              </h2>
+              </h3>
               <p className="mt-4 max-w-lg text-[#0d4b4d]">
                 Have an idea, project, or opportunity to discuss?
                 Send me an email and let&apos;s talk.

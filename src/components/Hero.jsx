@@ -11,8 +11,7 @@ function Hero() {
         <h2>Frontend Developer</h2>
 
         <p>
-          I build responsive and modern web applications using
-          React, JavaScript, HTML, CSS, and Bootstrap.
+         a Frontend Developer specializing in React.js and modern web technologies. I build responsive, accessible, and high-performance web applications with a focus on clean code, reusable components, and exceptional user experiences.
         </p>
 
         <button>Download Resume</button>
